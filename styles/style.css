@@ -73,9 +73,10 @@ main p{
 }
 
 main p.especial{
+    padding: 10px;
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.451);
     color: white;
-    width: 50vw;
     text-shadow: 2px 1px 0px black;
 }
 
